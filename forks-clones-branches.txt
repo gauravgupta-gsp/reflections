@@ -1,0 +1,5 @@
+Branch - it exist on single repository. branch means start a new line of
+ development without affecting the main branch
+Clone - Clone means copy existing repository to your computer. 
+Fork - is coping someone else repository to your own repository which stays on github. You can later clone it your computer and make changes to it. You can also raise a pull request to original repo owner to 
+merge your repo in his repo.    
